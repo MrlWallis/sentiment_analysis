@@ -80,4 +80,4 @@ Python was used to scrape news articles related to Takata, identifying significa
     ![Python5](https://github.com/MrlWallis/sentiment_analysis/assets/36977382/5ea11e6a-b943-47f3-9147-e64293918e68)
 
 ### Appendix
-Supporting images and additional documentation are included in the project repository to provide further insights into the analysis methods and results.
+Supporting images and additional documentation are included in the **APPENDICES - HONDA COMPLAINTS.doc** file to provide further insights into the analysis methods and results.
