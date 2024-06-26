@@ -4,6 +4,8 @@
 
 This project aims to build and test a predictive model for car crashes using consumer complaints data from Honda. The analysis leverages SAS Enterprise Miner (SAS EM) and Python to create a decision tree model that predicts the likelihood of car crashes. The key features considered include car model, manufacturing year, presence of anti-brake system, cruise control, miles per hour, overall mileage, complaint topics, and sentiment.
 
+**Note: SAS Enterprise Miner has paid subscription which was provided through my school. If you are interested in replicating the same SAS results, please reach out and I can provide the ".sas7bdat" files used in this project**
+
 ### Descriptive Statistics
 The dataset consists of 5330 complaints, with approximately 10.7% reporting a crash. Key attributes include car make, model year, anti-brake system presence, cruise control, miles per hour, and overall mileage. Complaints are categorized into seven topics based on description, and sentiment analysis is performed to determine the average sentiment score for each complaint.
 
