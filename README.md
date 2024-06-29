@@ -1,8 +1,10 @@
-# Final Project Summary: Predicting Car Crash Probability Using Honda Consumer Complaints
+# Predicting Car Crash Probability Using Honda Consumer Complaints
 
 ### General Objectives
 
 This project aims to build and test a predictive model for car crashes using consumer complaints data from Honda. The analysis leverages SAS Enterprise Miner (SAS EM) and Python to create a decision tree model that predicts the likelihood of car crashes. The key features considered include car model, manufacturing year, presence of anti-brake system, cruise control, miles per hour, overall mileage, complaint topics, and sentiment.
+
+This project was submitted as part of a class project I submitted for STAT 656 : Applied Analytics taught by Edward Jones at Texas A&M University - College Station in 2018.
 
 **Note: SAS Enterprise Miner has paid subscription which was provided through my school. If you are interested in replicating the same SAS results, please reach out and I can provide the ".sas7bdat" files used in this project**
 
@@ -81,3 +83,5 @@ Python was used to scrape news articles related to Takata, identifying significa
 
 ### Appendix
 Supporting images and additional documentation are included in the **APPENDICES - HONDA COMPLAINTS.doc** file to provide further insights into the analysis methods and results.
+
+Feel free to reach out if you have any questions/suggestions or ideas for a project. Thanks for reading!
